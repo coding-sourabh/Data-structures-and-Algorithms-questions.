@@ -8,3 +8,6 @@ https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-mo
 https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1
 
 https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/?category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1
+
+handshakes
+https://practice.geeksforgeeks.org/problems/handshakes1303/1/?category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1#
